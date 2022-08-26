@@ -1,0 +1,16 @@
+b3 Potraviny
+j8 Lekarna
+d4 Drogerie
+a1 Banka
+k12 Tesco
+g5 Mall
+c13 Globus
+a7 Albert
+c8 Lidl
+h2 Penny
+f9 Kaufland
+b11 Fio
+g12 CSOB
+e7 AirBank
+i4 Unicredit
+b4 KB
